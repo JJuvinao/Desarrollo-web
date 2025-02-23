@@ -7,7 +7,7 @@ body{
 }
 .container {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1200px;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -27,11 +27,11 @@ body{
 
 .preview-container{
     width: 100%;
-    padding: 20px;
+    padding: 5px;
     border-radius: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
 .table-container {
@@ -68,4 +68,12 @@ input, select, textarea {
     min-width: 500px;
     border: 1px solid #ccc;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.image-frame {
+    border: 2px solid #000;
+    padding: 2px;
+    border-radius: 5px;
+    max-width: 80%;
+    height: auto;
 }
