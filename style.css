@@ -1,11 +1,12 @@
 body{
-    background: lightgray;
+    background: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .container {
+    background: lightgray;
     width: 100%;
     max-width: 1200px;
     padding: 20px;
