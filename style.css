@@ -27,6 +27,7 @@ body{
 }
 
 .preview-container{
+    background: azure;
     width: 100%;
     padding: 5px;
     border-radius: 5px;
@@ -65,6 +66,7 @@ input, select, textarea {
 }
 
 .containertabla {
+    background: darkgray;
     width: 100%;
     max-width: 1000px;
     padding: 20px;
