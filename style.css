@@ -6,7 +6,7 @@ body{
     align-items: center;
 }
 .container {
-    background: lightgray;
+    background: rgba(255, 255, 255, 0.8);
     width: 100%;
     max-width: 1200px;
     padding: 20px;
@@ -27,7 +27,7 @@ body{
 }
 
 .preview-container{
-    background: azure;
+    background: rgba(255, 255, 255, 0.8);
     width: 100%;
     padding: 5px;
     border-radius: 5px;
